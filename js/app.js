@@ -117,4 +117,5 @@ function primeNo(num){
     return num +'is prime number'
     }
 }
-console.log(primeNo(21))
+console.log(primeNo(21));
+console.log("git init")
