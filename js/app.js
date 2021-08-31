@@ -118,4 +118,5 @@ function primeNo(num){
     }
 }
 console.log(primeNo(21));
-console.log("git init")
+console.log("git init");
+console.log("second commit");
